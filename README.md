@@ -8,4 +8,4 @@ Este projeto tem como base o desenvolvimento de uma plataforma que faz a anális
 
 ---
 
-##### 🤖 Vem participar conosco ? [Comunidade no WhatsApp](https://chat.whatsapp.com/HwrVqEUfm4tEXGfUsmhFAq)
+##### 🤖 Vem participar conosco ? [Comunidade no WhatsApp](https://chat.whatsapp.com/JpL1PMj6gid7Dcb6L2MXdP)
