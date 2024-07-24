@@ -4,7 +4,7 @@
 
 Este projeto tem como base o desenvolvimento de uma plataforma que faz a análise dos sintomas de um paciente. E usando Inteligência Artificial faremos a análise e assim dar a resposta da probabilidade que a IA gerou.
 
-##### 🤖 O projeto começa oficialmente no dia 28 de Julho...
+##### 🤖 O projeto começa oficialmente no dia 1 de Agosto...
 
 ---
 
