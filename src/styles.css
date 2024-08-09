@@ -1,0 +1,85 @@
+* {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+}
+
+:focus {
+  outline: 1px solid blue;
+}
+
+.link-header {
+  font-size: 1rem;
+  color: rgb(67, 114, 189);
+  text-decoration: none;
+  padding: 1rem;
+}
+
+.link-header:hover {
+  background-color: rgba(54, 127, 196, 0.775);
+  color: white;
+  border-radius: 999px;
+}
+
+.header-container {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  padding: 1.5rem 8rem;
+  border-radius: 50px;
+  margin: 1.8rem;
+}
+
+.header-container strong {
+  font-size: 1.2rem;
+  color: rgb(67, 114, 189);
+}
+
+.header-link-container {
+  display: flex;
+  align-items: center;
+  gap: 1.5rem;
+}
+
+.patient-container {
+  margin: 2rem 8rem;
+  border-radius: 2rem;
+  padding: 2rem;
+}
+
+.patient-container .patient-details {
+  display: flex;
+  gap: 2rem;
+  margin-bottom: 2rem;
+}
+
+.patient-container h3 {
+  font-size: 1.3rem;
+  font-weight: bold;
+  margin-bottom: 2rem;
+}
+
+.patient-container .form-group {
+  display: flex;
+  flex-direction: column;
+  gap: 1rem;
+}
+
+.patient-container .form-group input {
+  padding: 1.2rem;
+  border-radius: 999px;
+  border: none;
+  background-color: rgb(237, 237, 237);
+}
+
+.patient-container .form-group label{
+    font-weight: 600;
+}
+
+.patient-container .form-group textarea {
+  padding: 1.2rem;
+  border-radius: 8px;
+  border: none;
+  background-color: rgb(237, 237, 237);
+  height: 20vh;
+}
